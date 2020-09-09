@@ -6,6 +6,7 @@ import android.util.Log
 import androidx.databinding.DataBindingUtil
 import com.example.workdatabinding.databinding.ActivityMainBinding
 
+// using data binding in a Activity Class
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
